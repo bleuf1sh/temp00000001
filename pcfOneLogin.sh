@@ -1,0 +1,1 @@
+cf login -a api.run.pcfone.io -u lallen@pivotal.io --sso
