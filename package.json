@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@slack/client": "^4.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "pretty-ms": "^4.0.0"
   },
   "devDependencies": {
